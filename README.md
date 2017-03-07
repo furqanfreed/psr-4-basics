@@ -15,3 +15,8 @@ http://www.php-fig.org/psr/psr-4/ <br>
 Followed <br>
 
 https://www.youtube.com/watch?v=VGSerlMoIrY
+
+
+<br>
+For Laravel <br>
+https://www.youtube.com/watch?v=FzdhnbM_0ug
